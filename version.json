@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.1",
+    "notes":  "Accounts and auto-updates",
+    "message":  "",
+    "sha256":  {
+                   "JDR-Studios-Setup.exe":  "df73a364065c2f645253fd610958d0feed3654fc289e6511de84bc406c348104",
+                   "JDR-Studios-Portable.exe":  "516e5bd43706855178b677501de31689da4edad1f76c443a0eba6a2ccf6c2475"
+               }
+}
