@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.2",
-    "notes":  "Updates now download even when GitHub\u0027s website is down, and a failed update no longer closes the app",
+    "version":  "1.0.3",
+    "notes":  "Finds Sollumz when it was installed from inside Blender in a custom location",
     "message":  "",
     "sha256":  {
-                   "JDR-Studios-Setup.exe":  "94bf1171476ec29d265cfb295d9806995f8c2c310e1c787339fa9f4caedcc0e0",
-                   "JDR-Studios-Portable.exe":  "d38bbf82059fec25a9fdf9ad024ac0903bdfd5a936b2d662e8043060bad4572a"
+                   "JDR-Studios-Setup.exe":  "b9a452db637761010a4246b4fb4fbdf97a2f1785d02094842ab16e46e8e7b53d",
+                   "JDR-Studios-Portable.exe":  "d2e7dbe3d04c6ada377f584af3b4f9998ffdc458bda5b8ed44f0ca1ed0d1471d"
                }
 }
