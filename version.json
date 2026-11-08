@@ -1,9 +1,9 @@
 {
     "version":  "1.0.1",
-    "notes":  "Accounts and auto-updates",
+    "notes":  "Fix: Blender without Sollumz can now be set up",
     "message":  "",
     "sha256":  {
-                   "JDR-Studios-Setup.exe":  "df73a364065c2f645253fd610958d0feed3654fc289e6511de84bc406c348104",
-                   "JDR-Studios-Portable.exe":  "516e5bd43706855178b677501de31689da4edad1f76c443a0eba6a2ccf6c2475"
+                   "JDR-Studios-Setup.exe":  "0e5a08d21dd1fe1ad1f5c7557d668e42d2c940aab696f07922fd227e5d84bf49",
+                   "JDR-Studios-Portable.exe":  "ac86222c4b6fdcf24df0928913f9836ae5eb2502605559f39e19b9d5e86ba50d"
                }
 }
