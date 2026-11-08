@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.1",
-    "notes":  "Fix: Blender without Sollumz can now be set up",
+    "version":  "1.0.2",
+    "notes":  "Updates now download even when GitHub\u0027s website is down, and a failed update no longer closes the app",
     "message":  "",
     "sha256":  {
-                   "JDR-Studios-Setup.exe":  "0e5a08d21dd1fe1ad1f5c7557d668e42d2c940aab696f07922fd227e5d84bf49",
-                   "JDR-Studios-Portable.exe":  "ac86222c4b6fdcf24df0928913f9836ae5eb2502605559f39e19b9d5e86ba50d"
+                   "JDR-Studios-Setup.exe":  "94bf1171476ec29d265cfb295d9806995f8c2c310e1c787339fa9f4caedcc0e0",
+                   "JDR-Studios-Portable.exe":  "d38bbf82059fec25a9fdf9ad024ac0903bdfd5a936b2d662e8043060bad4572a"
                }
 }
